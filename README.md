@@ -3,6 +3,6 @@ Repositorio dirigido a las entregas del curso MAT-395 tanto personales como grup
 
 Grupo: Equipo 7
 
-Integrantes: Carlos Guerra
-             Bastián Aceitón
+Integrantes: Carlos Guerra,
+             Bastián Aceitón y
              Benjamín Acuña
